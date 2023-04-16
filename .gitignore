@@ -3,12 +3,12 @@
 .lunar_helper
 
 # Ignore ROMs and various ROM build results
-*.smc
-*.sfc
-*.smc~
-*.bak
-*.msc
-*.dsc
+#*.smc
+#*.sfc
+#*.smc~
+#*.bak
+#*.msc
+#*.dsc
 
 # Ignore all.map16 file since we're using a text-based map16 format
 other/all.map16
