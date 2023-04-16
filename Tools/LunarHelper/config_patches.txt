@@ -5,4 +5,5 @@
 patches
 [
     Patches/message_box_expansion.asm
+    Patches/Disable_Timer.asm
 ]

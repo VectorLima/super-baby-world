@@ -29,7 +29,7 @@ dw $0105 : db $0F : dl Message12
 dw $0105 : db $12 : dl Message13
 
 dw $014 : db $08 : dl Message14
-dw $00CA : db $02 : dl Message15
+dw $0CA : db $00 : dl Message15
 
 
 

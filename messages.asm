@@ -80,7 +80,8 @@ Message04:
 Message05:
         db "Estou ansioso(a) para     "
         db "conhecer voces em breve.  "
-        db "soube que teve gente que  "
+        db "                          "
+        db "Soube que teve gente que  "
         db "ate apostou hahaha!       "
         db $FF
 
@@ -93,7 +94,7 @@ Message06:
         db $FF
 
 Message07:
-        db "Meus papai se conheceram  "
+        db "Meus papais se conheceram "
         db "ha muito tempo atras,     "
         db "ainda adolescentes em uma "
         db "festa na escola. E mesmo  "
@@ -129,7 +130,7 @@ Message09:
 
 Message10:
         db "Papai no controle agora!  "
-        db "No ano de 2014, surgiu uma"
+        db "No ano de 2O14, surgiu uma"
         db "oportunidade incrivel para"
         db "o papai. Estudar fora, na "
         db "Irlanda. Os dois ainda    "
@@ -149,7 +150,7 @@ Message11:
         db "chamadas no Skype e       "
         db "ligacoes. Papai surtava   "
         db "porque estava gastando    "
-        db "bastante (EM EURO AINDA). "
+        db "bastante (Em euro ainda). "
         db $FF
 
 Message12:
@@ -161,8 +162,8 @@ Message12:
         db "fazendo, ela juntou todas "
         db "as suas economias, comprou"
         db "um par de aliancas de     "
-        db "namoro novas e partiu com "
-        db "destino a PARIS!          "
+        db "novas e partiu com destino"
+        db "a PARIS!                  "
 
 Message13:
         db "Nem preciso dizer que foi "

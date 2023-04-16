@@ -81,7 +81,7 @@ endmacro
         !DefaultMessage         = Message00
         !IntroMessage           = Message01
         !YoshiMessage           = Message02
-        !YellowSwitchMessage    = Message03
+        !YellowSwitchMessage    = Message14
         !BlueSwitchMessage      = Message03
         !RedSwitchMessage       = Message03
         !GreenSwitchMessage     = Message03
