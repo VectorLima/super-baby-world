@@ -107,7 +107,7 @@ Message07:
 Message08:
         db "Mas tudo bem sabemos que o"
         db "escadao do guarani nao e  "
-        db "facil haha. O tempo passou"
+        db "facil ne?. O tempo passou "
         db "e a nossa familia comecou "
         db "a crescer. Primeiro eles  "
         db "decidiram adotar um       "
@@ -128,6 +128,7 @@ Message09:
         db $FF
 
 Message10:
+        db "Papai no controle agora!  "
         db "No ano de 2014, surgiu uma"
         db "oportunidade incrivel para"
         db "o papai. Estudar fora, na "
@@ -137,4 +138,62 @@ Message10:
         db "dades financeiras, entao  "
         db "decidiram dar uma pausa no"
         db "relacionamento...         "
+
+
+Message11:
+        db "Foi um periodo muito difi-"
+        db "cil para os dois, mas     "
+        db "mesmo assim, eles nunca   "
+        db "deixaram de se falar.     "
+        db "Viviam atraves de video-  "
+        db "chamadas no Skype e       "
+        db "ligacoes. Papai surtava   "
+        db "porque estava gastando    "
+        db "bastante (EM EURO AINDA). "
+        db $FF
+
+Message12:
+        db "Mas a saudade foi tanta   "
+        db "que a mamae decidiu fazer "
+        db "uma loucura de amor. Em   "
+        db "meio a um mochilao na     "
+        db "Europa que o papai estava "
+        db "fazendo, ela juntou todas "
+        db "as suas economias, comprou"
+        db "um par de aliancas de     "
+        db "namoro novas e partiu com "
+        db "destino a PARIS!          "
+
+Message13:
+        db "Nem preciso dizer que foi "
+        db "                          "
+        db "LE...     GEN...          "
+        db "                          "
+        db "(espera um pouquinho...)  "
+        db "                          "
+        db "DARIO!!                   "
+        db "                          "
+        db "Mamae no controle agora.. "
+        db $FF
+
+Message14:
+        db "Me desculpe mamae, mas eu "
+        db "nao pude esquecer que essa"
+        db "semana foi aniversario do "
+        db "papai, e quer um presente "
+        db "melhor do que ele         "
+        db "finalizar essa aventura?  "
+        db "                          "
+        db "Passe o controle pro papai"
+        db $FF
+
+Message15:
+        db "Querido papai, bora usar a"
+        db "sua habilidade em         "
+        db "finalizar jogos? Tenho    "
+        db "                          "
+        db "CERTEZA                   "
+        db "                          "
+        db "Tenho certeza que esse    "
+        db "voce nunca vai esquecer!  "
         db $FF
