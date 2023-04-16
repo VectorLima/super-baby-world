@@ -21,7 +21,7 @@
 ;       db "this is how long a line is"
 
 Message00:
-        db "- OI MEU AMOR -           "
+        db "- TEST MESSAGE -          "
         db "                          "
         db "This is a demonstration of"
         db "what   the   message   box"
@@ -195,6 +195,6 @@ Message15:
         db "                          "
         db "CERTEZA                   "
         db "                          "
-        db "Tenho certeza que esse    "
-        db "voce nunca vai esquecer!  "
+        db "que esse voce nunca       "
+        db "vai esquecer!             "
         db $FF
